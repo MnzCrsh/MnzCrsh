@@ -1,5 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+man+ate+my+son)](https://git.io/typing-svg)<BR></BR>
-![alt text]([http://url/to/img.png](https://sun9-30.userapi.com/impg/yMXj-h0B3bEIwq-kL1y7W83HRzvmVWOg39SxBA/GmjvS5lHVEA.jpg?size=1242x1542&quality=95&sign=eebce88d1ba3b79a90daae832f0d7b52&type=album))
+<img src=https://imgur.com/Ty3VaTq width="128"/>
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <!--
