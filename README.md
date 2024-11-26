@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Messing+with+foreign+biocurrency+🤥)](https://git.io/typing-svg)<BR></BR>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%9bff3c&lines=Messing+with+foreign+biocurrency+🤥)<BR></BR>
 <img src="https://i.imgur.com/9B3PLXE.jpg" width="200" />
 
 <br>
