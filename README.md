@@ -3,7 +3,7 @@
 
 <br>
 
-- 🤔 I’m currently learning Rust/Go and k8s  <br>
+- 🤔 I’m currently learning Go and k8s  <br>
 
 <!--
 **MnzCrsh/MnzCrsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
