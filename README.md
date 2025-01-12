@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%9bff3c&lines=🤥)<BR></BR>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%9bff3c&lines=fiber+optic+prison+cube+CEO+mindset+🤥)<BR></BR>
 <img src="https://i.imgur.com/9B3PLXE.jpg" width="200" />
 
 <br>
